@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nodejs backend server
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on Nodejs
-- 📫 How to reach me arrocy2gmail.com
+- 📫 How to reach me arrocy2@gmail.com
 
 <!---
 arrocy/arrocy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
