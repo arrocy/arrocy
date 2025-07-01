@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arrocy
 - 👀 I’m interested in Nodejs backend server
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m a full stack web developer
 - 💞️ I’m looking to collaborate on Nodejs
 - 📫 How to reach me arrocy1@gmail.com
 
